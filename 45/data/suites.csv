@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 25 11:05:29 GMT 2022","Tue Oct 25 11:05:33 GMT 2022","3962","Login page","Login tests","","","","Log In Form - Invalid Username and Password",""
+"passed","Tue Oct 25 11:05:16 GMT 2022","Tue Oct 25 11:05:26 GMT 2022","10070","Login page","Login tests","","","","Log In Form General Display",""
+"passed","Tue Oct 25 11:05:26 GMT 2022","Tue Oct 25 11:05:29 GMT 2022","3166","Login page","Login tests","","","","Log In Form - Viewing/Hiding Password",""
+"passed","Tue Oct 25 11:05:33 GMT 2022","Tue Oct 25 11:05:38 GMT 2022","4928","Login page","Login tests","","","","Log In Form - Invalid Username and Valid Password",""
+"passed","Tue Oct 25 11:05:38 GMT 2022","Tue Oct 25 11:05:47 GMT 2022","9042","Login page","Login tests","","","","Log In Form - Existing User",""
